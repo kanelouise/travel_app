@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Access
 Access this mobile-first designed travel app at https://travel-app-kane-test.vercel.app/
 
-This app was created based on [this] (https://www.youtube.com/watch?app=desktop&v=cuzw4vL1z5E)JavaScript Mastery tutorial.
+This app was created based on [this](https://www.youtube.com/watch?app=desktop&v=cuzw4vL1z5E)JavaScript Mastery tutorial.
 
 ## Scope
 
